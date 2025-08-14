@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/c310c536-57bd-4c62-8350-42e1dcd9bd5f
-
-
-
 # Tambo Template
 
 This is a starter NextJS app with Tambo hooked up to get your AI app development started quickly.
